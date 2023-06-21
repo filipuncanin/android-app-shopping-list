@@ -1,2 +1,7 @@
 # android-app-shopping-list
-Fully usable Android app created in Android Studio
+
+Local SQL database
+
+Mongo DB on server 
+
+Backgroud service syncing local and db on server
